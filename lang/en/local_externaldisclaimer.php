@@ -21,12 +21,12 @@
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
  
-$string['pluginname'] = 'External Disclaimer';
+$string['pluginname'] = 'External disclaimer';
 $string['enabled'] = 'Enabled';
-$string['enabled_desc'] = 'Enable External Disclaimer';
-$string['internal'] = 'Internal Domains';
+$string['enabled_desc'] = 'Enable the External disclaimer plugin';
+$string['internal'] = 'Internal domains';
 $string['internal_desc'] = 'Enter the domains that will count as internal, and thus not get a disclaimer. This should include your site\'s own domain(s) and any others in your network. One domain per line. http:// not required';
-$string['external'] = 'External Patterns';
+$string['external'] = 'External patterns';
 $string['external_desc'] = 'Enter regular expression patterns for URLs that are internal but should still generate a disclaimer. This would typically be used for local pages that redirect to an external URL.';
-$string['disclaimer'] = 'Disclaimer Text';
+$string['disclaimer'] = 'Disclaimer text';
 $string['disclaimer_desc'] = 'Enter the text you wish to use for your disclaimer message.';

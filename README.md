@@ -19,7 +19,9 @@ This is a standard Moodle 'local' plugin. Installation is via Moodle's plugin ma
 Requirements
 ------------
 
-This plugin has been tested with Moodle v3.0 and higher, and with PHP v5.5 and higher.
+This plugin should work with Moodle v3.0 and higher
+
+It has been tested with Moodle v3.0 and v3.2, and with PHP v5.5 and v7.1.
 
 
 Configuration
